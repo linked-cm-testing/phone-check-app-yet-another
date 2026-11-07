@@ -1,6 +1,6 @@
 {
-  "name": "app",
-  "displayName": "Linked App Template",
+  "name": "yet-another-app",
+  "displayName": "yet another",
   "description": "Linked app — base repository for new Linked apps.",
   "version": "0.1.0",
   "private": true,
